@@ -22,7 +22,7 @@ void setup() {
   pinMode(KEY_OUT, OUTPUT);
   digitalWrite(KEY_OUT, HIGH);
 
-  ditTime = (1200UL / wpm) * 4; // standard formula
+  ditTime = (1200UL / wpm) * 4; // doesnt work as expected; basically magic number rn
 }
 
 
