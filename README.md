@@ -8,7 +8,7 @@ Im just hooking up the arduino through a buck straight into my transcievers exte
 
 
 ![](https://github.com/Michael-Likh/dual_to_mono_morse_keyer_translator/blob/main/arduino.png)
-
+Its important to note that the paddle is ACTIVE LOW and should be connected accordingly.
 
 heres the arduino code so that you can easely copy paste:
 
