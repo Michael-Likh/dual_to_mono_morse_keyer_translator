@@ -1,14 +1,14 @@
-# dual_to_mono_morse_keyer_translator
-Arduino code that translated a dual morse keyer into a mono input needed by my Yaesu FT-950
+## dual_to_mono_morse_keyer_translator
+# Arduino code that translated a dual morse keyer into a mono input needed by my Yaesu FT-950
 
 I found that my Yaseu considers the paddle to transmit when the MONO paddle jack is shorted; so im shorting it with a relay.
-I decided to use a relay because I like the sound but a transistor will 100% work.
+I decided to use a relay because I like the sound, but a transistor will 100% work.
 
 Im just hooking up the arduino through a buck straight into my transcievers external PSU.
 
 
 ![](https://github.com/Michael-Likh/dual_to_mono_morse_keyer_translator/blob/main/arduino.png)
-Its important to note that the paddle is ACTIVE LOW and should be connected accordingly.
+**Its important to note that the paddle is ACTIVE LOW and should be connected accordingly.**
 
 heres the arduino code so that you can easely copy paste:
 
