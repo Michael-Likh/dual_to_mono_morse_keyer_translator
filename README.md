@@ -7,7 +7,7 @@ I decided to use a relay because I like the sound but a transistor will 100% wor
 Im just hooking up the arduino through a buck straight into my transcievers external PSU.
 
 
-[.](https://github.com/Michael-Likh/dual_to_mono_morse_keyer_translator/blob/main/arduino.png)
+![](https://github.com/Michael-Likh/dual_to_mono_morse_keyer_translator/blob/main/arduino.png)
 
 
 heres the arduino code so that you can easely copy paste:
